@@ -53,7 +53,7 @@ public class Main {
         var totalWorkers2 = totalWorkers + moreWorkers;
         var humanHours2 = humanHours * totalWorkers2;
         var humanHours3 = totalHours / totalWorkers2;
-        System.out.println (" Если в компании работает " + totalWorkers2 + " человека, то всего " + humanHours2 + " часов работы может быть поделено между сотрудниками ЛИБО Если в компании работает " + totalWorkers2 + " человека, то всего " + humanHours3 + " часа работы может быть поделено между сотрудниками");
+        System.out.println (" Если в компании работает " + totalWorkers2 + " человека,то всего " + humanHours2 + " часов работы может быть поделено между сотрудниками ЛИБО Если в компании работает " + totalWorkers2 + " человека, то всего " + humanHours3 + " часа работы может быть поделено между сотрудниками");
 
     }
 }
